@@ -1,13 +1,17 @@
-//: Playground - noun: a place where people can play
 
 import UIKit
+
+/*  MiniReto:
+    Trabajo no.1
+    Tecnológico de Monterrey
+    
+    Creado por: Pablo Jaramillo
+    Quito - Ecuador
+*/
 
 //:Definimos nuestro rango del cero al cien
 
 var numeros = 0...100
-
-
-//:Definimos nuestro rango del cero al cien
 
 //: creamos la secuencia switch:
 
@@ -26,17 +30,3 @@ for numero in numeros {
     }
 }
 
-/* switch numero {
-    case 30 ... 40:
-        print ("numero" + "Viva Swift")
-    case numero % 5 == 0:
-    print ("numero", "Bingo!!!")
-    case numero % 2 == 0
-    print ("numero", "es par")
-default:
-    print ("numero", "es impar")
-    }
-
-}*/
-
-//:Trabajando con la sentencia Switch
